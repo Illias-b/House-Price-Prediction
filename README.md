@@ -1,4 +1,4 @@
-# House Price Prediction Analysis Report
+# House Price Prediction
 
 [View the Jupyter Notebook](https://github.com/Illias-b/House-Price-Prediction-Notebook.git) 
 
