@@ -21,7 +21,7 @@ We began by examining our dataset to identify missing values, understand the dis
 
 ### Feature Selection
 
-Features with strong correlations were prioritized for the model. Specifically, 'Distance to the nearest MRT station' was identified as a key predictive feature.
+Features with strong correlations were prioritised for the model. Specifically, 'Distance to the nearest MRT station' was identified as a key predictive feature.
 
 ![image](https://github.com/Illias-b/House-Price-Prediction/assets/33836566/7f8d3661-e7ef-4953-84a5-2d19665bfdb2)
 
@@ -52,7 +52,7 @@ Linear Regression emerged as the more suitable model for this dataset. The addit
 ### Recommendations for Future Work
 
 - Further explore feature engineering, including higher-degree polynomials.
-- Optimize the Random Forest model's hyperparameters.
+- Optimise the Random Forest model's hyperparameters.
 - Evaluate other regression models or ensemble methods.
 - Investigate additional features or external data sources to improve model predictions.
 
