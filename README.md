@@ -1,5 +1,7 @@
 # House Price Prediction Analysis Report
 
+[View the Jupyter Notebook](https://github.com/Illias-b/House-Price-Prediction-Notebook.git) 
+
 ## Objective
 
 The primary goal was to develop a predictive model to accurately forecast the house price per unit area based on features such as the property's age, proximity to key amenities like MRT stations, the number of convenience stores, and its geographical location.
