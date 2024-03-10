@@ -13,15 +13,15 @@ We began by examining our dataset to identify missing values, understand the dis
 - **Negative Correlation:** The 'Distance to the nearest MRT station' showed a strong negative correlation with the house price per unit area.
 - **Positive Correlation:** The 'Number of convenience stores' displayed a moderate positive correlation with house prices.
 
-  ![image](https://github.com/Illias-b/House-Price-Prediction/assets/33836566/8416f0ce-0c03-4531-8d60-b6a5f281f388)
-
-![image](https://github.com/Illias-b/House-Price-Prediction/assets/33836566/74bc1eb7-8614-47f1-84d9-f2d10191b07a)
+![image](https://github.com/Illias-b/House-Price-Prediction/assets/33836566/d33a13b6-9825-4e16-84c5-324406393159)
 
 ## Feature Selection and Engineering
 
 ### Feature Selection
 
 Features with strong correlations were prioritized for the model. Specifically, 'Distance to the nearest MRT station' was identified as a key predictive feature.
+
+![image](https://github.com/Illias-b/House-Price-Prediction/assets/33836566/7f8d3661-e7ef-4953-84a5-2d19665bfdb2)
 
 ### Feature Engineering
 
@@ -30,6 +30,9 @@ Attempted to capture more complex relationships through polynomial features up t
 ## Model Development and Evaluation
 
 Two models were selected for comparison: Linear Regression and Random Forest Regressor. Both models were trained and evaluated using Mean Squared Error (MSE) and R-squared (R²) metrics.
+
+![image](https://github.com/Illias-b/House-Price-Prediction/assets/33836566/54f2e44a-6a23-4dc3-ba38-bb0a491a3e86)
+
 
 ### Model Performance
 
