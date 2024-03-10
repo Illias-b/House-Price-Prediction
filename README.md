@@ -13,6 +13,10 @@ We began by examining our dataset to identify missing values, understand the dis
 - **Negative Correlation:** The 'Distance to the nearest MRT station' showed a strong negative correlation with the house price per unit area.
 - **Positive Correlation:** The 'Number of convenience stores' displayed a moderate positive correlation with house prices.
 
+  ![image](https://github.com/Illias-b/House-Price-Prediction/assets/33836566/8416f0ce-0c03-4531-8d60-b6a5f281f388)
+
+![image](https://github.com/Illias-b/House-Price-Prediction/assets/33836566/74bc1eb7-8614-47f1-84d9-f2d10191b07a)
+
 ## Feature Selection and Engineering
 
 ### Feature Selection
